@@ -4,7 +4,7 @@ replicaCount: 1
 revisionHistoryLimit: 1
 image:
   repository: hyperdata/nodejs-server-test
-  tag: 20.09
+  tag: 20.10
   pullPolicy: IfNotPresent 
   resources:
     requests:
